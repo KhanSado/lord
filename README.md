@@ -1,6 +1,6 @@
 [![](https://jitpack.io/v/karontyy/lord.svg)](https://jitpack.io/#karontyy/lord)
 
-<img src="https://raw.githubusercontent.com/karontyy/lord/master/lordLogo.png" width="800" height="160"/>
+<img src="https://raw.githubusercontent.com/karontyy/lord/master/lordLogo.png" width="820" height="240"/>
 
 
 # Welcome to Lord UI !
