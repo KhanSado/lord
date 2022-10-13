@@ -1,5 +1,8 @@
 [![](https://jitpack.io/v/karontyy/lord.svg)](https://jitpack.io/#karontyy/lord)
 
+<img src="https://raw.githubusercontent.com/karontyy/lord/master/lordLogo.png"/>
+
+
 # Welcome to Lord UI !
 Lord is library with UI components using jetpack compose
 ⚠ **Under Construction**
