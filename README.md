@@ -1,9 +1,10 @@
 [![](https://jitpack.io/v/karontyy/lord.svg)](https://jitpack.io/#karontyy/lord)
 [![](https://jitpack.io/v/karontyy/lord/month.svg)](https://jitpack.io/#karontyy/lord)
 [![GitHub forks](https://badgen.net/github/forks/karontyy/lord/)](https://GitHub.com/karontyy/lord/network)
-[![GitHub stars](https://badgen.net/github/stars/karontyy/lord)](https://GitHub.com//karontyy/lord/stargazers))
+[![GitHub stars](https://badgen.net/github/stars/karontyy/lord)](https://GitHub.com//karontyy/lord/stargazers)
 
 <img src="https://raw.githubusercontent.com/karontyy/lord/master/lordLogo.png" width="820" height="240"/>
+
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
