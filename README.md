@@ -1,4 +1,5 @@
 [![](https://jitpack.io/v/karontyy/lord.svg)](https://jitpack.io/#karontyy/lord)
+[![](https://jitpack.io/v/karontyy/lord/month.svg)](https://jitpack.io/#karontyy/lord)
 
 <img src="https://raw.githubusercontent.com/karontyy/lord/master/lordLogo.png" width="820" height="240"/>
 
