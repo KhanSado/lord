@@ -27,8 +27,8 @@ dependencies {
 
 ## Components
 
-[CardView Usage](https://github.com/karontyy/lord/blob/master/app/src/main/java/com/br/lordui/components/cardview/sample.md)
-[SlideView Usage](https://github.com/karontyy/lord/blob/master/app/src/main/java/com/br/lordui/components/slideview/sample.md)
+* [CardView Usage](https://github.com/karontyy/lord/blob/master/app/src/main/java/com/br/lordui/components/cardview/sample.md)
+* [SlideView Usage](https://github.com/karontyy/lord/blob/master/app/src/main/java/com/br/lordui/components/slideview/sample.md)
 
 ## Show some ❤ and support
 
