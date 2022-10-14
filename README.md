@@ -21,7 +21,7 @@ allprojects {
 Add the dependency
 ```css
 dependencies {
-	 implementation 'com.github.karontyy:lord:0.1.0'
+	 implementation 'com.github.karontyy:lord:last_version'
 }
 ```
 
